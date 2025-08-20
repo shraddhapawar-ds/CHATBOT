@@ -1,0 +1,16 @@
+#Langchain Core
+langchain
+langchain_core
+
+#OpenAI Integration
+langchain-openai
+openai 
+
+#Environmemt variable management
+python-dotenv
+
+#Langchain community
+langchain_community
+
+#Streamlit
+Streamlit
