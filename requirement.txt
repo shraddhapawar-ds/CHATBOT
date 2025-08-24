@@ -13,4 +13,4 @@ python-dotenv
 langchain_community
 
 #Streamlit
-Streamlit
+streamlit
